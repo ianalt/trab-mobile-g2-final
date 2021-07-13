@@ -1,0 +1,14 @@
+com/trabmobileg2/MainActivity.java
+ com.trabmobileg2.MainActivity
+com/trabmobileg2/MainApplication.java
+ com.trabmobileg2.MainApplication
+ com.trabmobileg2.MainApplication$1
+com/trabmobileg2/ReactNativeFlipper.java
+ com.trabmobileg2.ReactNativeFlipper
+ com.trabmobileg2.ReactNativeFlipper$1
+ com.trabmobileg2.ReactNativeFlipper$2
+ com.trabmobileg2.ReactNativeFlipper$2$1
+com/trabmobileg2/BuildConfig.java
+ com.trabmobileg2.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

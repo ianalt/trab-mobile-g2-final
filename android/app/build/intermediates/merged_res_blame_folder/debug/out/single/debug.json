@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\Users\\mathe\\Desktop\\Trabalhim\\trab-mobile-g2\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\mathe\\Desktop\\Trabalhim\\trab-mobile-g2\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\Desktop\\Trabalhim\\trab-mobile-g2\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\mathe\\Desktop\\Trabalhim\\trab-mobile-g2\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\Desktop\\Trabalhim\\trab-mobile-g2\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\mathe\\Desktop\\Trabalhim\\trab-mobile-g2\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\Desktop\\Trabalhim\\trab-mobile-g2\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_logo.png.flat",
+        "source": "C:\\Users\\mathe\\Desktop\\Trabalhim\\trab-mobile-g2\\android\\app\\src\\main\\res\\mipmap-mdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\Desktop\\Trabalhim\\trab-mobile-g2\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\mathe\\Desktop\\Trabalhim\\trab-mobile-g2\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\Desktop\\Trabalhim\\trab-mobile-g2\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\mathe\\Desktop\\Trabalhim\\trab-mobile-g2\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\Desktop\\Trabalhim\\trab-mobile-g2\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\mathe\\Desktop\\Trabalhim\\trab-mobile-g2\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\Desktop\\Trabalhim\\trab-mobile-g2\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\mathe\\Desktop\\Trabalhim\\trab-mobile-g2\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\Desktop\\Trabalhim\\trab-mobile-g2\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_logo.png.flat",
+        "source": "C:\\Users\\mathe\\Desktop\\Trabalhim\\trab-mobile-g2\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\Desktop\\Trabalhim\\trab-mobile-g2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash.xml.flat",
+        "source": "C:\\Users\\mathe\\Desktop\\Trabalhim\\trab-mobile-g2\\android\\app\\src\\main\\res\\drawable\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\Desktop\\Trabalhim\\trab-mobile-g2\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\mathe\\Desktop\\Trabalhim\\trab-mobile-g2\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\Desktop\\Trabalhim\\trab-mobile-g2\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_logo.png.flat",
+        "source": "C:\\Users\\mathe\\Desktop\\Trabalhim\\trab-mobile-g2\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\Desktop\\Trabalhim\\trab-mobile-g2\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\mathe\\Desktop\\Trabalhim\\trab-mobile-g2\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\Desktop\\Trabalhim\\trab-mobile-g2\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_logo.png.flat",
+        "source": "C:\\Users\\mathe\\Desktop\\Trabalhim\\trab-mobile-g2\\android\\app\\src\\main\\res\\mipmap-hdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\Desktop\\Trabalhim\\trab-mobile-g2\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\mathe\\Desktop\\Trabalhim\\trab-mobile-g2\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\Desktop\\Trabalhim\\trab-mobile-g2\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_logo.png.flat",
+        "source": "C:\\Users\\mathe\\Desktop\\Trabalhim\\trab-mobile-g2\\android\\app\\src\\main\\res\\mipmap-xhdpi\\logo.png"
+    }
+]
